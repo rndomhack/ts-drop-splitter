@@ -1,0 +1,13 @@
+{
+  "name": "ts-drop-splitter",
+  "version": "1.0.0",
+  "description": "Split MPEG-2 TS at drop point",
+  "main": "cli.js",
+  "repository": "https://github.com/rndomhack/ts-drop-splitter",
+  "author": "rndomhack",
+  "license": "MIT",
+  "dependencies": {
+    "aribts": "^2.1.9",
+    "cli": "^1.0.1"
+  }
+}
